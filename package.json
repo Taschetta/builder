@@ -1,0 +1,32 @@
+{
+  "name": "@taschetta/builder",
+  "version": "0.0.1",
+  "description": "Am SQL query builder inspired by MongoDB's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taschetta/builder.git"
+  },
+  "keywords": [
+    "Database",
+    "SQL",
+    "MongoDB",
+    "query",
+    "builder"
+  ],
+  "author": "Santiago Taschetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taschetta/builder/issues"
+  },
+  "homepage": "https://github.com/Taschetta/builder#readme",
+  "dependencies": {
+    "sqlstring": "^2.3.2"
+  },
+  "devDependencies": {
+    "vitest": "^0.2.3"
+  }
+}
